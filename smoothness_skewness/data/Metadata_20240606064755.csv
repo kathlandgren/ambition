@@ -1,0 +1,13 @@
+,Values
+tuid,20240606064755
+infotype,landscape
+infosummary,mean
+num_thresholds,150
+num_tstep,1000
+num_agents,1
+num_replicates,10000
+reward_assessment,cumulative
+looped_over_param,alpha
+threshold_type,constant
+threshold_min,-3
+threshold_max,6

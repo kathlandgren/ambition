@@ -1,0 +1,13 @@
+,Values
+tuid,20240514082754
+infotype,group_hist
+infosummary,mean
+num_thresholds,50
+num_tstep,1000
+num_agents,100
+num_replicates,10000
+reward_assessment,cumulative
+looped_over_param,corr
+threshold_type,uniform
+threshold_min,-1
+threshold_max,1
