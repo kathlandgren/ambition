@@ -1,5 +1,7 @@
 # Optimal ambition in business, politics, and life
-This repository houses the code for the manuscript "Optimal ambition in business, politics, and life"
+This repository houses the code for:
+
+"Optimal ambition in business, politics, and life" Ekaterina Landgren, Ryan Langendorf, and Matthew Burgess *Physical Review E* 113, 054317 (2026).  DOI: [https://doi.org/10.1103/dfw8-vhjk](https://doi.org/10.1103/dfw8-vhjk). arXiv preprint: [https://arxiv.org/abs/2502.10500](https://arxiv.org/abs/2502.10500).
 
 ## Installation instructions
 Use `git clone` to download this repository either via HTTPS
